@@ -16,7 +16,7 @@
 - 🌱 I’m learning **Angular**, **Java**, and **Machine Learning Models**
 - 👯 I’m looking to collaborate on **cutting-edge ML research and development**
 - 🤝 I’m seeking help with **deep-diving into ML logic**
-- 👨‍💻 Portfolio: [Portfolio-Uddav](https://naninetha3.github.io/Portfolio-Uddav/)
+- 👨‍💻 Portfolio: [Portfolio-Uddav](https://uddavgoshika.github.io/Portfolio-Uddav/)
 - 📫 Reach me at: **shivauddav187@gmail.com**
 - 📄 Know about my experiences: [Resume](https://naninetha3.github.io/Portfolio-Uddav/Uddav_Resume.pdf)
 - ⚡ Fun fact: 🕵️‍♂️ "Finding a missing semicolon feels like finding a missing sock. Mysterious. Emotional. Rare."
