@@ -51,12 +51,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naninetha3&show_icons=true&locale=en&theme=radical" alt="naninetha3" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naninetha3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uddavgoshika&show_icons=true&locale=en&theme=radical" alt="naninetha3" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uddavgoshika&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naninetha3&theme=radical" alt="GitHub Streak" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddavgoshika&theme=radical" alt="GitHub Streak" height="190"/>
 </p>
 
 ---
