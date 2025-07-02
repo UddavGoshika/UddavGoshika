@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddavgoshika&theme=radical" alt="GitHub Streak" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddavgoshika&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
