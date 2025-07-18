@@ -60,6 +60,13 @@
 </p>
 
 ---
+<h1 align="center">
+  👀 Total Profile Views
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UddavGoshika&label=Total+Visitors&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=UddavGoshika&label=PROFILE+VIEWS)
 
