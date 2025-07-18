@@ -61,6 +61,9 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=UddavGoshika&label=PROFILE+VIEWS)
+
+---
 <details>
   <summary>🔍 Fun Hidden Fact</summary>
   <br>
